@@ -105,7 +105,7 @@ html,body{
         flex-direction: column;
         height: 100%;
         width: 300px;
-        margin: auto;
+        margin-right: 3px;
     }
     
     .image-content{
